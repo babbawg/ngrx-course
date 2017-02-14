@@ -1,5 +1,12 @@
 # NgrxCourse
 
+## Riferimenti
+Il mio repository di studio della [lezione](https://www.udemy.com/angular-ngrx-course) di Vasco di Angular University su Udemy.
+[Questo](https://github.com/angular-university/ngrx-course) il repository su Github.
+
+
+## Help
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0-beta.31.
 
 ## Development server
